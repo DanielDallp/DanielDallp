@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Daniel 🤠 </h1>
-<h3 align="center">🚀 I am a Front-end and Back-end student 🚀</h3>
+<h3 align="center">🚀 Computer Science Student | Exploring Technology & Development 🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif"/>
 <div align="left"> 
