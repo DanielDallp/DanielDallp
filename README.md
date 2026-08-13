@@ -3,12 +3,15 @@
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif"/>
 <div align="left"> 
+  <div align="left"> 
   <h3> 👨‍💻 About Me </h3>
-  
-  - 🎓 &nbsp; Studying JavaScript HTML CSS.
-  - 📚 &nbsp; Learning more about Frontend.
-  - ✍️ &nbsp; Knowledge Seeker.  
-</div> 
+
+* 🎓   Bachelor's Degree student in Computer Science at IFCE.
+* 💻   Studying JavaScript, HTML and CSS.
+* 📚   Learning more about Front-end and Back-end development.
+* ✍️   Knowledge Seeker.
+
+</div>
 </div>
 
 <div>
